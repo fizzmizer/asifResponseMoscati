@@ -5,6 +5,7 @@
 - [X] Créer le GitHub
 - [X] Créer un compte GitHub (Jérémy)
 - [X] Inviter Jérémy (Antoine)
+- [ ] Biblio sur les citations de l'article depuis
 
 
 ## Idées de titre
