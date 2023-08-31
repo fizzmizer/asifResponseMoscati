@@ -11,6 +11,7 @@
 
 - A realist yet fictionalist response to Moscati's instrumentalism
 - Explaining with fictions : a realist look at as-if modelling in physics ans economics
+- As-if Models and Scientific Realism: a response to Moscati
 
 ## Idées en vrac
 
