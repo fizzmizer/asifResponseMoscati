@@ -38,11 +38,14 @@ Ici, on rajoute des choses qui nous passent par la tête et qui peuvent se rév�
 - Outline de l'article
 
 **II. What is a realistic model?**
-- La définition de Moscati n'est pas cohérente
-- Demander aux hypothèses des modèles d'être cohérents avec la background knowledge est une condition qui ne fonctionne même pas pour la physique
+- La définition de Moscati n'est pas cohérente. 
+	- On trouve souvent ça dans la littérature (ex: Hedström2005): quand on critique les hypothèses pour leur manque  de réalisme, souvent c'est pour dire leur manque de cohérence avec ce que l'on sait par ailleurs (du comportement humain, des atomes, etc.). Ici il y a donc deux questions possibles: on peut poser la question de la recevabilité (d'un point de vue épistémo) d'hypothèses qui sont incohérentes avec ce que l'on sait par ailleurs (en gros est-ce que c'est grave ou pas), ou/et ensuite poser la question du réalisme scientifique càd est-ce qu'à partir des modèles les plus recevables que l'on ait (corroboration, simplicité, etc) on peut en déduire que les théories sous-jacentes capturent bien qqchose de réel, ou bien sont vraies dans un certain sens, etc.
+	- Les deux questions sont entremêlées: si on trouve un critère épistémo de selection/recevabilité des modèles, on peut ensuite l'appuyer par une certaine vision philosophique (réaliste par ex), et de mm la question du réalisme ne se pose que si on a déjà des critères épistémo.
+
+- Demander aux hypothèses des modèles d'être cohérents avec la background knowledge est une condition qui ne fonctionne même pas pour la physique. 
 - Donc ça ne peut pas être pris comme critère épistémologique de démarcation des différents modèles disponibles
 
-**III. je sais pas lire ce que t'as écrit**
+**III. As-if n'empêche pas qu'il y ait une référence et une vérification/justification**
 - La peur des modèles as-if sans référence réelle n'est pas justifiée. Comme la background knowledge n'est pas un critère pertinent, il n'y a pas à avoir peur de la modélisation as-if : elle est épistémologiquement utile et fructueuse, mais en plus elle permet de générer un mode de justification plus fort.
 
 **IV. Apport de Jérémy : critère épistémologique**
