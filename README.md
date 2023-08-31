@@ -5,22 +5,20 @@
 - [X] Créer le GitHub
 - [X] Créer un compte GitHub (Jérémy)
 - [X] Inviter Jérémy (Antoine)
-- [X] Biblio sur les citations de l'article depuis la sortie (avril2023): aucune citation trouvée à part de lui-même dans un bouquin sur l'histoire de la TEU sorti en Juil2023.
+- [X] Biblio sur les citations de l'article depuis la sortie (avril 2023) : aucune citation trouvée à part de lui-même dans un bouquin sur l'histoire de la TEU sorti en juillet 2023.
 
 
 ## Idées de titre
 
 - A realist yet fictionalist response to Moscati's instrumentalism
-- Explaining with fictions : a realist look at as-if modelling in physics ans economics
+- Explaining with fictions: a realist look at as-if modelling in physics and economics
 - As-if Models and Scientific Realism: a response to Moscati
 
 ## Idées en vrac
 
 Ici, on rajoute des choses qui nous passent par la tête et qui peuvent se révéler importantes dans la suite
 
-## Argumentaire
-
-### Structure de l'article
+## Structure de l'article
 
 **I. Introduction**
 - Résumé de la position de Moscati
@@ -28,13 +26,10 @@ Ici, on rajoute des choses qui nous passent par la tête et qui peuvent se rév�
 	- Selon lui: les trois types sont en fait tous des as-ifs. 
 	- Selon lui: c'est pas grave, il suffit de comprendre l'utilisation de ces modèles as-ifs au sein du paradigme épistémo adéquate, ici un paradigme anti-réaliste. 
 	- Ce paradigme anti-réaliste: au delà d'un simple instrumentalisme en ce qu'il insiste sur la notion d'explication (vision mécanistique)
-
 - On dit avec quoi on est d'accord
 	- OK pour dire que tous les modèles sont as-ifs
-
 - Sur quoi on est pas d'accord et outline de notre position
 	- Par contre pas OK pour dire que ça implique forcément de voir ça d'un point de vue anti-réaliste.
-
 - Outline de l'article
 
 **II. What is a realistic model?**
