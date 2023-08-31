@@ -5,7 +5,7 @@
 - [X] Créer le GitHub
 - [X] Créer un compte GitHub (Jérémy)
 - [X] Inviter Jérémy (Antoine)
-- [ ] Biblio sur les citations de l'article depuis (Jérémy)
+- [X] Biblio sur les citations de l'article depuis la sortie (avril2023): aucune citation trouvée à part de lui-même dans un bouquin sur l'histoire de la TEU sorti en Juil2023.
 
 
 ## Idées de titre
