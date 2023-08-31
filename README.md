@@ -24,7 +24,7 @@ Ici, on rajoute des choses qui nous passent par la tête et qui peuvent se rév�
 
 **I. Introduction**
 - Résumé de la position de Moscati
--- Distingue 3 types de modèles en économie/théorie de la décision: as-ifs, behavioral et heuristics. Les deux derniers sont censés palier au manque de réalisme du premier type et s'émanciper d'une vision purement instrumentaliste.
+	- Distingue 3 types de modèles en économie/théorie de la décision: as-ifs, behavioral et heuristics. Les deux derniers sont censés palier au manque de réalisme du premier type et s'émanciper d'une vision purement instrumentaliste.
 -- Selon lui: les trois types sont en fait tous des as-ifs. 
 -- Selon lui: c'est pas grave, il suffit de comprendre l'utilisation de ces modèles as-ifs au sein du paradigme épistémo adéquate, ici un paradigme anti-réaliste. 
 -- Ce paradigme anti-réaliste: au delà d'un simple instrumentalisme en ce qu'il insiste sur la notion d'explication (vision mécanistique)
