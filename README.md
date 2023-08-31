@@ -1,6 +1,6 @@
 # Response to Moscati's instrumentalism, by Attard and Brandelet
 
-# To do list
+## To do list
 
 - [X] Créer le GitHub
 - [ ] Créer un compte GitHub (Jérémy)
@@ -18,4 +18,4 @@ Ici, on rajoute des choses qui nous passent par la tête et qui peuvent se rév�
 
 ## Argumentaire
 
-
+### Structure de l'article
