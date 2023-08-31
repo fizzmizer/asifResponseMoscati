@@ -3,8 +3,8 @@
 ## To do list
 
 - [X] Créer le GitHub
-- [ ] Créer un compte GitHub (Jérémy)
-- [ ] Inviter Jérémy (Antoine)
+- [X] Créer un compte GitHub (Jérémy)
+- [X] Inviter Jérémy (Antoine)
 
 
 ## Idées de titre
