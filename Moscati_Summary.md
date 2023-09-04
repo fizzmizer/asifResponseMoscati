@@ -86,5 +86,5 @@ Il commence par rappeler les  trois dimensions du réalisme scientifique: ontolo
 		- indicating to decision theorists how to modify models that are unable to save choice-behaviour phenomena-
 even if the represented mechanisms are not true, that is, even if the represented mechanisms are only 'stories' that decision theorists tell." Puis il précise le critère épistémo (page22): "Insofar as a decision mechanism produces, i.e. explains, the targeted choice-behaviour phenomena in a simple and parcimonious way, and insofar as the decision theory incorporating the mechanism is successful - possibly for reasons that are different from the ones imagined by decision theorists - in describing, predicting or controlling the targeted  choice-behaviour phenomena, the explanation provided by the mechanism is a valid one."
 
-Donc en plus de l'adéquation empirique, il y a une notion de simplicité et de parcimonie qui n'est pas décrite plus en détail, mais ce sont des critères épistémologiques importants selon lui. 
+Donc en plus de l'adéquation empirique, il y a une notion d'organisation cohérente de la pensée, de simplicité et de parcimonie qui n'est pas décrite plus en détail, mais ce sont des critères épistémologiques importants selon lui. 
 
