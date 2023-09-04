@@ -66,4 +66,25 @@ Présente trois modèles particuliers.
 
 **Section 7: Other decision models are as-if models too**
 
+**Section 8: An antirealist account of as-if models**
+Il commence par rappeler les  trois dimensions du réalisme scientifique: ontologique, sémantique et épistémique. 
+- Il est réaliste ontologique, ça ok. 
+- à propos du réalisme sémantique, pour lui les as-if models ne s'engagent pas à propos de savoir si les termes qui se réfèrent à des entités ou mécanismes inobservables représentent, littéralement ou approximativement, des trucs qui se passent réellement (dans l'esprit des individus ici). Ils peuvent n'être que des fictions, ou même faire référence à des trucs qui existent mais être faux. Constat qui soutient cette vision: la diversité disciplinaire: différentes disciplines des SHS représentent l'esprit et le comportement humains de manières différentes et parfois incompatibles, sans que ça les empêche de produire des modèles authentiquement explicatifs. Cf la note 16, page 19, intéressante. 
+- pour la dimension épistémique, les antiréalistes sont agnostiques ou sceptiques quant au fait que nos meilleures théories représentent vraiment les aspects inobservables du monde. 
+- 8.4 Beyond instrumentalism. Il commence par résumer sa position: (page 20)
+	- Ontological level: une réalité objective existe.
+	- Semantic level: "maintains that decision-theoretic terms provide literal or at least approximate representations of the observable entitites they refer to, while decision-theoretic terms reffing to unobservable entities and mechanisms can be, and often are, purely fictional posits."
+	- Epistemic level: "maintains that decision theories aim at providing true descriptions of observable choice behaviour, but is agnostic or even sceptical about whether current decision theories provide true descriptions of the unobservable entities and mechanisms that produce that behavior." 
+
+ça ressemble à de l'instrumentalisme classique, mais lui réfute cette idée, car pour lui l'instrumentalisme ne fournit pas un account satisfaisant de la modélisation as-if en th de la décision, en particulier l'instrumentalisme classique de rend pas compte du rôle/but épistémique important que joue l'explication en th de la dec. On ne veut pas uniquement sauver les phénomènes, mais aussi les expliquer. Il s'en tient au mechanistic account of explanation. Expliquer un phénomène = identifier un mécanisme qui, via l'activité et l'interaction de ses composants, produit le phénomène en question. 
+
+- 8.5 An antirealist account of mechanistic explanation. 
+	- Il commence par anticiper une critique: un réaliste pourrait dire qu'il y a une contradiction entre une vision antiréaliste ET le fait qu'on cherche à avoir des bonnes explications du phénomène. Mais selon lui, c'est simplement que pour un réaliste, une bonne explication est une explication vraie, qui décrit le vrai mécanisme produisant le phénomène. Il dit que c'est une mauvaise critique, et qu'on peut très bien soutenir que les modèles fictionnels sont authentiquement explicatifs (il cite Bokulich etc) donc plutôt Antoine's literature. 
+	- En particulier, on peut comprendre le fait qu'un modèle soit explicatif non pas uniquement s'il fournit LE mécanisme à l'oeuvre mais une représentation de ce mécanisme. Il détaille ça dans cette citation (page 21-22): "Therefore, a mechanistic explanation can carry out its cognitive functions:
+		- allowing decision theorists to coherently organize their thinking about choice-behaviour phenomena; 
+		- allowing them to reason counterfactually about how a modification in some unobservable component of the decision mechanism, such as preference or utility, could modify observable choice behaviour;
+		- indicating to decision theorists how to modify models that are unable to save choice-behaviour phenomena-
+even if the represented mechanisms are not true, that is, even if the represented mechanisms are only 'stories' that decision theorists tell." Puis il précise le critère épistémo (page22): "Insofar as a decision mechanism produces, i.e. explains, the targeted choice-behaviour phenomena in a simple and parcimonious way, and insofar as the decision theory incorporating the mechanism is successful - possibly for reasons that are different from the ones imagined by decision theorists - in describing, predicting or controlling the targeted  choice-behaviour phenomena, the explanation provided by the mechanism is a valid one."
+
+Donc en plus de l'adéquation empirique, il y a une notion de simplicité et de parcimonie qui n'est pas décrite plus en détail, mais ce sont des critères épistémologiques importants selon lui. 
 
