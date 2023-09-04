@@ -39,21 +39,13 @@ Les deux points sont indépendants l'un de l'autre dans leur validité.
 		- Présente les trois types de modèles (neocl, behav et heur) avec des exemples particuliers de chaque catégorie: EU, cumulative prospect theory (CPT) et priority heuristics (PH). 
 		- Sections 3-6: défend l'idée que ces trois modèles particuliers sont mieux compris comme des as-ifs
 		- section 7: étend cette remarque aux trois catégories entières
-	- Seconde partie: 
+	- Seconde partie: connecte ce débat avec le débat sur le réalisme. 
+		- section 8: il sketch un antiréalisme qui permettrait de rationaliser épistémologiquement les pratiques de modélisation as-ifs en théorie de la décision. 
+			- Cette version va plus loin qu'un instrumentalisme en ce qu'il tente de rendre compte du role que l'explication joue en th de la décision. 
+			- Cette version est "local" dans le sens disciplinaire: il l'applique à la th de la décision mais ne suppose pas que ça puisse s'appliquer à tous les domaines de l'économie, et dans un sens temporel: ça s'applique à l'état actuel de la discipline mais ne suppose pas que ça soit pas juste passager. 
+		- section 9: relie son account antiréaliste au débat entre mentalism et behaviorism en th de la décision. 
+	- Section 10: conclusion
 		
 
-checker Vromen 2022
 
-Summing up the first two arguments, the preferences of actual decision makers
-appear to be often incomplete, intransitive and unstable. Therefore, the complete,
-transitive and stable preferences featured in CPT should not be understood as
-entities actually existing in the decision maker’s mind but as theoretical
-constructs existing in the decision theorist’s mind, through which she explains,
-describes or predicts the decision maker’s choice behaviour.
-
-Il défend ensuite une position antiréaliste pour justifier épistémologiquement une vision as if des modèles
-« These entities and mechanism are best
-seen as fictional and possibly false posits that, however, help decision theorists to
-‘save’ choice-behaviour phenomena, that is, to describe observable choice-
-behaviours in a true, or approximately true, way. »
 
