@@ -62,4 +62,8 @@ Présente trois modèles particuliers.
 
 **Section 5: The preference-based mechanism of EU and CPT is an as-if mechanism** 
 
-**Section 6: the heuristic mechanism of PH is an as-if mechanism** 
+**Section 6: the heuristic mechanism of PH is an as-if mechanism**
+
+**Section 7: Other decision models are as-if models too**
+
+
