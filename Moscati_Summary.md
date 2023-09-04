@@ -1,6 +1,6 @@
 behavior & heuristics model are also as if and it is ok
 
-**Intro :**
+**Introduction**
 
 - 3 catégories de modèles en éco : neoclassique (utility), behavioral et heuristic
 	- néoclassique : typiquement la théorie du choix rationnel (RCT) ou théorie de l'utilité espérée (EUT)
@@ -36,7 +36,7 @@ Les deux points sont indépendants l'un de l'autre dans leur validité.
 
 - Son plan:
 	- Première partie:
-		- Présente les trois types de modèles (neocl, behav et heur) avec des exemples particuliers de chaque catégorie: EU, cumulative prospect theory (CPT) et priority heuristics (PH). 
+		- Section 2: Présente les trois types de modèles (neocl, behav et heur) avec des exemples particuliers de chaque catégorie: EU, cumulative prospect theory (CPT) et priority heuristics (PH). 
 		- Sections 3-6: défend l'idée que ces trois modèles particuliers sont mieux compris comme des as-ifs
 		- section 7: étend cette remarque aux trois catégories entières
 	- Seconde partie: connecte ce débat avec le débat sur le réalisme. 
@@ -47,5 +47,11 @@ Les deux points sont indépendants l'un de l'autre dans leur validité.
 	- Section 10: conclusion
 		
 
-
+**Section 2: EU, CPT and PH: a review**
+Ici présente trois modèles particuliers. 
+- Les trois sont basées sur des lotteries définies sur un ensemble de outcome possibles: (o1,o2,...oN). Une lotterie L est  simplement le fait d'assigner à chacun de ces outcomes une certaine probabilité: L=((o1,p1),(o2,p2),...(oN,pN)) avec p1+p2+...+pN=1. 
+- Ce que les individus ont à choisir, c'est des lotteries. Les modèles diffèrent sur comment les individus choisissent entre différentes lotteries. 
+	- RCT: les individus assignent à chaque outcome oi une utilité ui et choisissent la lotterie qui a l'utilité espérée EU(L)=p1u1+p2u2+...pNuN maximale, avec les pi qui correspondent aux probabilités objectives des différents outcomes. 
+	- CPT: les individus font pareil mais avec des probabilités subjectives (avec les biais psychologiques connus, du type mauvaise évaluation des probas extrêmes), et les utilités assignées le sont en fonction d'une certaine référence. 
+	- PH: les individus classent les différentes lotteries à l'aide de certaines heuristiques (raisonnements automatiques). 
 
