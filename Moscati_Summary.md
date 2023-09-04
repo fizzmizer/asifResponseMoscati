@@ -88,3 +88,13 @@ even if the represented mechanisms are not true, that is, even if the represente
 
 Donc en plus de l'adéquation empirique, il y a une notion d'organisation cohérente de la pensée, de simplicité et de parcimonie qui n'est pas décrite plus en détail, mais ce sont des critères épistémologiques importants selon lui. 
 
+- Dernier paragraphe de la section 8.5 où il dit que si le réaliste ne voit que, par définition, explication=vraie explication, il veut bien laisser ce termes aux réalistes et remplacer chez lui ce terme par "story". Donc c'est là où on peut intervenir aussi, il va falloir éclaircir cette histoire et se positionner. 
+
+- 8.6 Local antirealism, in decision theory and quantum physics. ici il fait un lien avec une distinction disciplinaire opérée par Karl Hoefer. Pour certaines disciplines (celles pour lesquelles on ne peut concevoir que dans le futur elles pourraient être radicalement différentes de ce qu'elles sont aujourdhui) le réalisme scientifique est la meilleure vision de la science (en termes d'inférence à la meilleure explication du succès des th), alors que pour d'autres (celles pour lesquelles on pourrait très bien concevoir qu'elles seront très différentes un jour) c'est l'antiréalisme. Pour Hoefer, la MQ appartient à ce deuxième groupe, et c'est pourquoi l'antiréalisme est le meilleur account de la MQ (résumé de son argument). Moscati fait un parallèle ici avec la th de la décision, ce qui lui permet de développer un argument analogue. il défend une vision antiréaliste "locale" au sens temporel et disciplinaire. 
+
+**Section 9: Relationship with behaviourism, mentalism and realistic accounts**
+Là je sais pas si c'est intéressant pour nous ou pas, à voir. 
+
+**Section 10: Conclusion** 
+Dans une tradition qui remonte à Pareto, les th de la dec préfèrent une approche basée sur les préférences que sur l'utilité, parceque justement c'est plus "réaliste" en ce que ces modèles font références à des trucs plus observables, alors que pour lui on s'en fout, c'est tout la même chose. Surtout que l'on prenne l'un ou l'autre, dans tous les cas il y aura quelque chose de plus à expliquer (régression à l'infini). 
+
