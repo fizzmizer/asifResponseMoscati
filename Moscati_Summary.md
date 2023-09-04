@@ -48,10 +48,18 @@ Les deux points sont indépendants l'un de l'autre dans leur validité.
 		
 
 **Section 2: EU, CPT and PH: a review**
-Ici présente trois modèles particuliers. 
+
+Présente trois modèles particuliers. 
 - Les trois sont basées sur des lotteries définies sur un ensemble de outcome possibles: (o1,o2,...oN). Une lotterie L est  simplement le fait d'assigner à chacun de ces outcomes une certaine probabilité: L=((o1,p1),(o2,p2),...(oN,pN)) avec p1+p2+...+pN=1. 
 - Ce que les individus ont à choisir, c'est des lotteries. Les modèles diffèrent sur comment les individus choisissent entre différentes lotteries. 
-	- RCT: les individus assignent à chaque outcome oi une utilité ui et choisissent la lotterie qui a l'utilité espérée EU(L)=p1u1+p2u2+...pNuN maximale, avec les pi qui correspondent aux probabilités objectives des différents outcomes. 
+	- RCT/EU: les individus assignent à chaque outcome oi une utilité ui et choisissent la lotterie qui a l'utilité espérée EU(L)=p1u1+p2u2+...pNuN maximale, avec les pi qui correspondent aux probabilités objectives des différents outcomes. 
 	- CPT: les individus font pareil mais avec des probabilités subjectives (avec les biais psychologiques connus, du type mauvaise évaluation des probas extrêmes), et les utilités assignées le sont en fonction d'une certaine référence. 
 	- PH: les individus classent les différentes lotteries à l'aide de certaines heuristiques (raisonnements automatiques). 
 
+**Section 3: the multiply-and-add mechanism of EU and CPT is an as-if mechanism**
+
+**Section 4: unconscious processes?**
+
+**Section 5: The preference-based mechanism of EU and CPT is an as-if mechanism** 
+
+**Section 6: the heuristic mechanism of PH is an as-if mechanism** 
