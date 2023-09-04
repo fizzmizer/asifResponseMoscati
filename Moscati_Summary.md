@@ -7,10 +7,8 @@ behavior & heuristics model are also as if and it is ok
 	- behavioral: les modèles développés pour répondre au fait que les expériences montraient que les hyp de base de la RCT étaient systématiquement violées. Ici il y a toujours l'utilité mais sa maximisation est contraintes par des hyp supplémentaires.
 	- heuristic: idem pour palier aux défauts de la RCT, mais ici pas de maximisation d'utilité, seulement une réponse comportementale qui suit certaines règles heuristiques/automatique
 
+- as-if models. Date de Friedman qui l'a ensuite appliquée à toute l'économie. Friedman=position instrumentaliste mainstream en économie. Définition donnée par Moscati des as-if models (p. 2):
 
-
-
-définition de la vision « as if » des modèles :
 « Broadly speaking, as-if models attempt to account for the observable choices that
 individuals make, but do not pretend to capture the underlying psychological
 mechanisms that might generate those choices. Some underlying choice-
@@ -25,9 +23,24 @@ the posited psychological mechanism at issue. Insofar as the as-if model is
 capable of accounting for the decision maker’s choice behaviour or indicating ways to effectively control it for economic policy purposes, the model is considered
 scientifically valid. »
 
-le critère de scientificité/acceptabilité est donné à la fin (souligné)
+Remarque: Le critère épistémo d'acceptabilité d'un modèle selon la vision as-if est donné à la fin :"capable of accounting for...". 
 
-son but est de dire qu’on peut justifier le as if (but it is ok) via un certain anti-réalisme
+Les th de la décision sont assez d'accord pour dire que les modèles de type EU sont as-ifs, mais le statut des modèles behavioral et heuristique est plus controversé. Ceux qui promeuvent ces modèles le font aussi parcequ'ils pensent que ça permet de s'extraire d'une vision as-if, justement, donc pas trop chauds pour dire que ce sont aussi des modèles as-if, mais plutôt des "process models". 
+
+
+- Dans cet article: deux points. 
+	- Tous les modèles sont as-if, même les behavioral et heuristiques, malgré ce qu'en pensent leur défenseur. 
+	- C'est pas grave. "as-if modelling in the theory of decision-making is not an illegitimate scientific practive but an epistemologically justified approach that can be rationalized by some form of scientific antirealism." La forme d'antiréalisme qu'il avance ici dépasse un simple instrumentalisme et s'inscrit aussi dans le débat en th de la décision entre les interprétations "mentalist" et "behaviorist", en s'opposant aux deux et en proposant une alternative. 
+
+Les deux points sont indépendants l'un de l'autre dans leur validité. 
+
+- Son plan:
+	- Première partie:
+		- Présente les trois types de modèles (neocl, behav et heur) avec des exemples particuliers de chaque catégorie: EU, cumulative prospect theory (CPT) et priority heuristics (PH). 
+		- Sections 3-6: défend l'idée que ces trois modèles particuliers sont mieux compris comme des as-ifs
+		- section 7: étend cette remarque aux trois catégories entières
+	- Seconde partie: 
+		
 
 checker Vromen 2022
 
