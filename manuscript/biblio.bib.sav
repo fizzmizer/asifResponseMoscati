@@ -9,14 +9,4 @@
   publisher = {Cambridge University Press ({CUP})},
 }
 
-@InCollection{Friedman1953,
-  author    = {Milton Friedman},
-  booktitle = {Essays in Positive Economics},
-  publisher = {University of Chicago Press},
-  title     = {The Methodology of Positive Economics},
-  year      = {1953},
-  editor    = {Milton Friedman},
-  pages     = {3--43},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
