@@ -50,8 +50,15 @@ Ici, on rajoute des choses qui nous passent par la tête et qui peuvent se rév�
 **III. As-if n'empêche pas qu'il y ait une référence et une vérification/justification**
 - La peur des modèles as-if sans référence réelle n'est pas justifiée. Comme la background knowledge n'est pas un critère pertinent, il n'y a pas à avoir peur de la modélisation as-if : elle est épistémologiquement utile et fructueuse, mais en plus elle permet de générer un mode de justification plus fort.
 
+- Tous les modèles sont as-ifs mais c'est effectivement pas grave, mais pas pour les mm raisons: mm avec des modèles as ifs on peut avoir une justification externe des modèles et donc ne mène pas à l'instrumentalisme forcément de reconnaitre qu'il y a du as if. c'est ce qu'on construira plus en détails dans le V.
+
+- à la fois des critères de jsutifcation et de selection/choix des modèles et des critères réalistes
+
+coeur de notre position: IV et V
 **IV. Apport de Jérémy : critère épistémologique** **JEREMY**
 - Acceptabilité des modèles = un principe fonda est acceptable au regard de sa capacité à générer une classification non triviale des phénomènes qui ne dépend in fine pas de la formulation particulière du principe en lui-même ou des hypothèses théoriques spécifiques qui viennent l'instancier. Donc on n'a pas besoin d'une correspondance directe entre ce que semble dire les hypothèses/le principe et ce qu'on peut observer par ailleurs, puisque ce n'est pas sur cette correspondance que portent les critères épistémologiques pertinents. Pour autant ça ne se réduit pas à un simple instrumentalisme dans le sens où le but recherché est quand mm l'explication + le critère ne se réduit à pas à sauver les phénomènes car le ppe doit aussi générer une classification des phénomènes (càd détecter et expliquer des régularités d'ordre supérieur) qui soit invariante par changement de formulation. 
+
+- ce critère épistémologique peut être justifié par une position réaliste (ce qu'on fait dans le V)
 
 **V. Apport d'Antoine : justification et réalisme** **ANTOINE**
 - On peut tout à fait interpréter de manière réaliste le succès des modèles as-if et fictionnels. Non seulement c'est compatible, mais on peut construire un cadre de pensée où la justification est reliée à l'adéquation empirique et aux autres valeurs mises en valeur par l'analyse de Jérémy (typiquement la simplicité des hypothèses, leur caractère unificateur, etc.)
