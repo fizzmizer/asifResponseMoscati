@@ -7,6 +7,9 @@
 - [X] Inviter Jérémy (Antoine)
 - [X] Biblio sur les citations de l'article depuis la sortie (avril 2023) : aucune citation trouvée à part de lui-même dans un bouquin sur l'histoire de la TEU sorti en juillet 2023.
 
+## à faire (19/09/23)
+- décrire mieux la neo-classique et ses variantes dans l'intro (Jeremy)
+- décrire mieux l'argument de Moscati dans la dernière partie de l'intro et notamment son rapport à l'antiréalisme, en décrivant mieux la structure de son argument (Antoine)
 
 ## Idées de titre
 
