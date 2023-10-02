@@ -170,4 +170,14 @@
   url= {https://philpapers.org/rec/ATTESO}
 }
 
+@InCollection{Hedstroem2021,
+  author    = {Peter Hedström},
+  booktitle = {Research Handbook on Analytical Sociology},
+  publisher = {Edward Elgar Publishing},
+  title     = {Coda - The past and future of analytical sociology},
+  year      = {2021},
+  month     = {dec},
+  doi       = {10.4337/9781789906851.00035},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
