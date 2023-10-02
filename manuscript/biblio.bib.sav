@@ -164,4 +164,10 @@
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@unpublished{attard_rationality,
+  author = {Jeremy Attard},
+  title  = {Epistemological statuts of rationality principles in the social sciences: a structural invariance principle},
+  url= {https://philpapers.org/rec/ATTESO}
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

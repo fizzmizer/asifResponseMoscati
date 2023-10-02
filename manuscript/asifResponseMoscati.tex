@@ -20,7 +20,7 @@
 \usepackage{multirow}
 \usepackage[strict]{changepage}
 \usepackage{authblk}
-
+\usepackage{csquotes}
 \usepackage{caption}
 \captionsetup[figure]{font=scriptsize}
 
@@ -69,13 +69,12 @@ Our paper is structured as follows. In Section \ref{sec:realisticness}, we first
 
 \section{What does it mean to have ``realistic'' assumptions?}
 \label{sec:realisticness}
-\subsection{Assumptions' realisticness and theories' realism}
+%\subsection{Assumptions' realisticness and theories' realism}
 Basic assumptions of decision theory models are thus often criticized for their lack of realism, which is seen as a fundamental epistemological drawback. Yet, there are two different - although related - philosophical discussions at play here, which are sometimes confused and that we would like to distinguish. Indeed, when scholars talk about the ``realisticness'' of basic assumptions in such models, they often mean their \textit{consistency} with what is otherwise known -- about human behavior, for instance. Consistency of basic assumptions with what is otherwise known is an epistemological demand -- that is, a criterion of acceptability or justification of a good scientific model. However, this ``realisticness'' of hypotheses should not be strictly confused with ``realism'' in the sense of \textit{scientific realism}. As Moscati points out in his paper, the latter is a philosophical framework of interpretation of the content of scientific theories, in their ontological, semantic or epistemic aspects, and in relation to their empirical success. 
 
-Discussions about scientific realism are particularly focused on hypotheses bearing on entities which are \textit{not} observable but still play an important role, e.g. in the explanation of the phenomenon studied. The distinction between realisticness and realism is thus quite relevant in this case. Indeed, it is precisely because we cannot know directly whether these hypotheses are true (and whether the entities to which they refer actually exist) that the question of realism (semantic and epistemic in particular) takes on its full meaning. Moreover, in the case these assumptions can be assessed and are shown to be false, or more precisely inconsistent with some background knowledge, this distinction allows to ask the question of how knowingly false assumptions can still play an important cognitive role in scientific inquiry. This question is actually relevant because in a lot of cases, models which are fully acknowledged as being of high reliability and scientificity, e.g. in physics, do rest on such not-only-idealized-but-false assumptions. The purpose of the next section is precisely to argue that the comparison with these physics’ examples suggests that realisticness does not seem to be a necessary criterion of acceptability.
+Discussions about scientific realism are particularly focused on hypotheses bearing on entities which are \textit{not} observable but still play an important role, e.g. in the explanation of the phenomenon studied. The distinction between realisticness and realism is thus quite relevant in this case. Indeed, it is precisely because we cannot know directly whether these hypotheses are true (and whether the entities to which they refer actually exist) that the question of realism (semantic and epistemic in particular) takes on its full meaning. Moreover, in the case these assumptions can be assessed and are shown to be false, or more precisely inconsistent with some background knowledge, this distinction allows to ask the question of how knowingly false assumptions can still play an important cognitive role in scientific inquiry. This question is actually relevant because in a lot of cases, models which are fully acknowledged as being of high reliability and scientificity, e.g. in physics, do rest on such not-only-idealized-but-false assumptions. We now argue that the comparison with these physics’ examples suggests that realisticness does not seem to be a necessary criterion of acceptability.
 
-
-\subsection{Coherence of basic assumptions is not a necessary epistemological criterion}
+%\subsection{Coherence of basic assumptions is not a necessary epistemological criterion}
 Lack of realisticness of basic assumptions in theoretical models in physics has at least three dimensions that we would like to highlight here. First, some basic assumptions are not testable independently of the very theoretical framework within which they are used. Indeed, on the one hand, fundamental principles as Newtonian law of motion cannot be tested per se, but only through the specification of some auxiliary hypotheses -- here, the specification of types of forces or energy which are assumed to be at play in the phenomena studied. On the other hand, these specific hypotheses cannot be independently tested neither. Take the fact that kinetic energy $E_k$ of a particle of mass $m$ and speed $v$ reads: 
 \begin{equation}
 E_k=\frac{1}{2}mv^2.
@@ -86,6 +85,7 @@ Hypothesis \eqref{eq:kinetic-energy} does not have any meaning outside Newtonian
 
 \begin{equation}
 \{\mathrm{fundamental~principles + specific~hypotheses}\}
+\label{eq:pattern_expl}
 \end{equation}
 
 gives rise to a model which produces falsifiable and empirically adequate predictions.
@@ -143,10 +143,29 @@ The realist challenge rather concerns the possibility of establishing independen
 \end{itemize}
 
 
-
-
 \section{``Unrealistic'' assumptions as substrates of modeling and classification principles}
 \label{sec:epistemo_criterion}
+From a fictional view of modelling developed in section~\ref{sec:asifVerifJust}, it turns out that some basic assumptions does not have to be taken too literally, as really describing what is going on beyond direct observations, but as mere \textit{substrates of modelling}. That is to say, as hypotheses which are necessary to take but which are not genuine empirical statements. Take a metro map as an illustrative example. A metro map can be seen as a model of the real metro system, a lot of features of which are highly idealized or even literally wrong, as the form of the lines between metro stations. However, if the purpose is to be able to move from a station to another one, it would be silly not to trust such a map for the reason that it contains idealizations or ``false assumptions'' about the form of the lines between stations. Our point is not that empirical false statements do not matter in general, but rather that these assumptions \textit{are not empirical statements}. The form of the lines between stations has to be represented in some ways for the map to exist, but they are not claiming anything about the lines between stations as they really are out there. Indeed, this is simply not the purpose of the map and it is assumed that the form of the lines does not impinge on this purpose. Likewise metro lines have to be represented having a certain form (for instance, as straight lines), agents in rational choice, behavioral or heuristic models have to be represented computing information in some way in order to reproduce the observed behaviors. However, there is no reason for this representation to be realistic, i.e. consistent with what is otherwise known about human behavior, as long as the model reaches the purpose for which it is built. 
+
+We thus agree with Moscati on the point that any model (in general, but in particular in decision theory) is as-if, and that it is not a fundamental epistemological issue. As for the epistemological criteria of acceptability of a given model, from the antirealist perspective of Moscati  \citep[p.~22]{Moscati2023}: 
+
+\begin{quote}
+Insofar as a decision mechanism produces, i.e. explains, the targeted choice-behaviour phenomena in a simple and parcimonious way, and insofar as the decision theory incorporating the mechanism is successful \textelp{} in describing, predicting or controlling the targeted choice-behaviour phenomena, the explanation provided by the mechanism is a valid one.'' 
+\end{quote}
+
+We obviously agree that classical epistemological criteria as simplicity, parsimony or predictive capacity are good criteria in general and in the case of mechanisms-based explanations in particular. However, we would like to go a bit further and build up a an epistemological criterion dealing explicitly with the issue of false assumptions in the modelling process and possibly realist-compatible. We now introduce this ``structural invariance'' criterion, as developed by one author in more details in \citep{attard_rationality}. Later on, it will be argued that this criterion is able to take into account all features of as-if modelling issues as described above while possibly being justified from a realist perspective.
+
+The construction of the criterion rests on the following observation: the non triviality of an explanation of the form $\{\mathrm{fundamental~principles + specific~hypotheses}\}$ as described above in equation \eqref{eq:pattern_expl} rests on the constraints which are imposed to the set of specific hypotheses used in a given empirical context. More precisely, if acting rationally only means maximizing a utility function, then given any behavior, it is always possible to find a utility function to maximize, under the form of \textit{ad hoc} hypotheses. Besides, this is a classical criticism of the (wild) use of rationality in the social science, as expressed e.g. in \citep[p.~498]{Hedstroem2021}:
+\begin{quote}
+What Becker and his followers showed is that it is possible to come up with coherent rational narratives that fit even the most puzzling and seemingly irrational kinds of behavior, particularly if the narratives are free to ignore known empirical facts about the behavior of individuals.
+\end{quote}
+
+Thus, relevant epistemological criteria do not apply directly to the fundamental principles or the specific hypotheses \textit{per se}, e.g. demanding their accuracy, realisticness or external consistency, but rather to the set of constraints which are imposed to the specific hypotheses in order to turn \eqref{eq:pattern_expl} into a non trivial explanation within a given set of fundamental principles. In physics, what makes a specific hypothesis (for example, gravitational term in Newtonian physics: $\mathbf{F}=-\frac{GmM}{r^2}\mathbf{e_r}$) epistemologically acceptable is not that it is realistic or merely true (for reasons cited above), but rather that it is \textit{systematically} associated to a certain set of empirical situations (here, some gravitational phenomena) with great empirical success (non trivial adequacy), and that in other formulations of classical mechanics it has a corresponding term which is also systematically associated to the same set of empirical situations with the same empirical success. Thus, the constraints imposed to the set of acceptable theoretical hypotheses ends up exhibiting a certain \textit{structure}: a systematic association between classes of phenomena and classes of models which explain them. The final point is that even if general principles and theoretical hypotheses can be formulated in different ways, they provide isomorphic classifications of models and thus a classification of phenomena which does not depend on any particular formulation. 
+
+
+We argue that this observation is not restricted to physis and is rather a fundamental epistemological feature +++ construire la map T et énoncer le principe d'invariance structurelle. 
+
+
 \section{As-if modeling, justification and realism}
 \label{sec:asif_realism}
 \section{Realism and explanation veritism}
