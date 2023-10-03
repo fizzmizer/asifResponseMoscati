@@ -69,3 +69,12 @@ coeur de notre position: IV et V
 
 **VII. Conclusion : on est les boss**
 - Le titre est explicite
+
+
+
+## Structure précise de l'article
+
+
+**I. Introduction**
+
+
