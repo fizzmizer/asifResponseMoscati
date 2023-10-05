@@ -72,9 +72,3 @@ coeur de notre position: IV et V
 
 
 
-## Structure précise de l'article
-
-
-**I. Introduction**
-
-
