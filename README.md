@@ -11,6 +11,16 @@
 - décrire mieux la neo-classique et ses variantes dans l'intro (Jeremy)
 - décrire mieux l'argument de Moscati dans la dernière partie de l'intro et notamment son rapport à l'antiréalisme, en décrivant mieux la structure de son argument (Antoine)
 
+## à faire (11/10/23)
+- décrire mieux la neo-classique et ses variantes dans l'intro (Jeremy)
+- décrire mieux l'argument de Moscati dans la dernière partie de l'intro et notamment son rapport à l'antiréalisme, en décrivant mieux la structure de son argument (Antoine)
+- Introduction: début à écrire + annoncer section 6 à la fin
+- Formulation "epistemological question" and "realism-related question": trouver une autre formulation pour la seconde? 
+- Sous parties ou pas? Homogénéiser sur la forme, + parler des paragraphes (trop?)
+- fin section 5: Jeremy doit rajouter un exemple
+- fin section 6: antoine doit mieux expliquer comment ça répond aux worries de moscati, meme brievement, la fin de la section est un peu brutale ici. 
+- écrire la conclusion 
+
 ## Idées de titre
 
 - A realist yet fictionalist response to Moscati's instrumentalism
