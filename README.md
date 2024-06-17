@@ -1,5 +1,12 @@
 # Response to Moscati's instrumentalism, by Attard and Brandelet
 
+## New version 14/06/2024
+Ne plus voir l'article comme une réponse à Moscati. Traiter plutôt du débat en sociologie analytique sur la question, et comment la vue fictionnelle des modèles peut l'enrichir sans forcément tomber dans une vision as-if (Friedman) anti-réaliste ou instrumentaliste, justement en distinguant bien la realisticness et le realisme scientifique. 
+
+## To do list (new version)
+- [] Jeremy : écrire un truc sur la sociologie analytique: origine, schéma général d'explication (mécanismes micro, individualisme structural-diagramme de Coleman), débat sur le réalisme des hypothèses de base pour se démarquer des modèles en économie et embrasser une épistémologie + réaliste et où le but central est l'explication (explicative social science) des phénomènes. 
+
+
 ## To do list
 
 - [X] Créer le GitHub
