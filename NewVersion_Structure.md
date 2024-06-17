@@ -14,7 +14,7 @@
 	- la question de l'explication (car Economie/Friedman = antirealisme/instrumentalisme)
 
 ## Le réalisme des hypothèses micro en SA (et autres)
-SA: nouveau courant et très prometteur
+SA: nouveau courant et très prometteur mais débats épistémo sur comment choisir les hypothèses de base (au coeur des explications)
 
 ## Clarification (centrale dans notre papier) : différence entre réalisme et realisticness
 
