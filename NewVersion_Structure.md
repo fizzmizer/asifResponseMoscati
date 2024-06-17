@@ -13,6 +13,8 @@
 	- la vision fictionnelle/indirecte des modèles 
 	- la question de l'explication (car Economie/Friedman = antirealisme/instrumentalisme)
 
+- prendre comme fil rouge l'exemple de Manzo sur le différentiel éducatif où il teste différents modèles emboités
+
 ## Le réalisme des hypothèses micro en SA (et autres)
 SA: nouveau courant et très prometteur mais débats épistémo sur comment choisir les hypothèses de base (au coeur des explications)
 
@@ -21,6 +23,7 @@ SA: nouveau courant et très prometteur mais débats épistémo sur comment choi
 ## As-if modelling and reference (partie d'Antoine déjà écrite) à modif?
 
 ## Unrealistic assumptions as substrates of modelling and classification principles (partie Jerem déjà écrite)
+Mettre + de détails sur le critère structurel 
 
 ## As-if modelling, justification and realism
 
